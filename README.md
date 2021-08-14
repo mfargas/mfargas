@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Los Angeles, CA. </h3> 
 <h3 align="center">I primarily develop using JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> </a></h3>
 
-<h3 align="right">Programming Language:</h3>
-<p align="right"> ✨ All of my projects are available at [https://www.marjoree.com](https://www.marjoree.com) </p>
-<p align="right"> 📫 How to reach me **marjoree.e.f@gmail.com** </p>
+<h3 align="right">More:</h3>
+<p align="right"> ✨ Portfolio Site - <a href="https://www.marjoree.com" target="_blank"> marjoree.com </a> </p>
+<p align="right"> 📫 Email - marjoree.e.f@gmail.com</p>
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
