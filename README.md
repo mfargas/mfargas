@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marjoree Fargas</h1>
 <h3 align="center">A passionate frontend developer from Los Angeles, CA. </h3> 
-<h3 align="center">I am primarily interested in developing with JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> </a></h3>
+<h3 align="center">I primarily develop using JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> </a></h3>
 
 <h3 align="right">Programming Language:</h3>
 <p align="right"> ✨ All of my projects are available at [https://www.marjoree.com](https://www.marjoree.com) </p>
