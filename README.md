@@ -17,8 +17,9 @@
   </a>
 <!--   <p>⚡️</p> -->
 </div>
-
-<h3 align="center">- Frontend Development - </h3>
+<div style="display: block">
+  <div>
+    <h3 align="center">- Frontend Development - </h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
@@ -48,3 +49,8 @@
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <!--   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  -->
 </p>
+  </div>
+  <div>
+    ![Marjoree's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfargas&theme=nightowl&show_icons=true)
+  </div>
+</div>
