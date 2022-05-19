@@ -1,8 +1,8 @@
-![Header](GitHub-Banner.png)
+![Header](GitHubBanner.png)
 <div align="center">
 <img src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" height="100px"/>
-<h2 align="center">✨ Welcome to Marjoree's GitHub ✨</h2>
-<!-- <h4 align="center">I primarily develop using JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> </a></h4> -->
+<!-- <h2 align="center">More about Marjoree</h2> -->
+<h4 align="center">I primarily develop using JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> </a></h4>
 </div>
 
 <div id="badges" align="center" display="flex">
