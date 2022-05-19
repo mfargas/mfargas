@@ -1,6 +1,21 @@
-<h2 align="center">👋 Hi, I'm Marjoree Fargas</h2>
-<h4 align="center">A passionate frontend developer from Los Angeles, CA. </h4> 
-<h4 align="center">I primarily develop using JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> </a></h4>
+<div align="center">
+<img src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" height="100px"/>
+<h2 align="center">✨ Welcome to Marjoree's GitHub ✨</h2>
+<!-- <h4 align="center">I primarily develop using JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> </a></h4> -->
+</div>
+
+<div id="badges" align="center" display="flex">
+  <a href="www.linkedin.com/in/marjoree-fargas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.marjoree.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge" alt="Portfolio Badge"/>
+  </a>
+  <a href="mailto:marjoree.e.f@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="email Badge"/>
+  </a>
+<!--   <p>⚡️</p> -->
+</div>
 
 <h3 align="left">- Frontend Development - </h3>
 <p align="left">
@@ -12,14 +27,19 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="center">- Backend Tools -</h3>
+<h3 align="left">- Backend Tools -</h3>
 
-<p align="center"> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<!--   <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> -->
+<p align="left"> 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  </p>
+
+<h3 align="right">- Deployment - </h3>
+<p align="right"> 
+  <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
+  <a href="https://www.heroku.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/></a>
+</p>
+
 <h3 align="right">- Design Tools -</h3>
 <p align="right">
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
@@ -27,13 +47,3 @@
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <!--   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  -->
 </p>
-<h3 align="left">- Deployment - </h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
-  <a href="https://www.heroku.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/></a>
-</p>
-  
-<h4 align="left">- More -</h4>
-<h5 align="left"> ✨ Portfolio Site : <a href="https://www.marjoree.com" target="_blank"> marjoree.com </a> </h5>
-<h5 align="left"> 📫 Email : marjoree.e.f@gmail.com</h5>
-
