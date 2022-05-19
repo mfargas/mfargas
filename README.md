@@ -1,3 +1,4 @@
+![Header](GitHub-Banner.png)
 <div align="center">
 <img src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" height="100px"/>
 <h2 align="center">✨ Welcome to Marjoree's GitHub ✨</h2>
