@@ -1,7 +1,7 @@
 # 👋🏻  **Hi, I'm Marjoree**  ✨
-![Header](GitHubBanner.png)
+<!-- ![Header](GitHubBanner.png) -->
 
-*<h2 style="fontsize: 50px" align="center"><img valign="bottom" src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" height="75px" style="margin: 0;"/> I primarily develop using JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> </a> </h2>*
+*<h2 style="fontsize: 50px" align="center"><img valign="bottom" src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" height="75px" style="margin: 0;"/> </h2>*
 
 <div id="badges" align="center" display="flex">
  <a href="https://www.linkedin.com/in/marjoree-fargas" target="_blank">
@@ -17,7 +17,7 @@
 *****
 <!--   <p>⚡️</p> -->
 </div>
-<table><tr><td valign="top" width="33%">
+<table align="center" ><tr><td valign="top" align="center">
 
 
 
@@ -31,7 +31,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" align="center">
 
 
 
@@ -43,7 +43,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" align="center">
 
 
 
