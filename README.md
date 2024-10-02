@@ -1,8 +1,33 @@
-# 👋🏻  **Hi, I'm Marjoree**  ✨
-<!-- ![Header](GitHubBanner.png) -->
+# ✨Hi, I'm Marjoree  <img valign="bottom" src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" height="50px" style="margin: 0; padding: 0;"/>
 
-*<h2 style="fontsize: 50px" align="center"><img valign="bottom" src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" height="75px" style="margin: 0;"/> </h2>*
+## 🚀 About Me
+I'm a passionate software engineer with a deep love for modern web technologies, eCommerce platforms, and system-level programming. With hands-on experience in **Next.js** and **Shopify Plus**, and ongoing studies in **C++**, I am committed to building scalable and efficient solutions.
 
+I thrive on solving complex problems and am always looking to deepen my knowledge and expand my skill set. Across my journey with web development, eCommerce, and system programming, I've grown to appreciate the art of creating optimal systems that allow their components to thrive together.
+
+</td><td valign="top" width="33%" align="center">
+
+## 🛠️ Skills & Technologies
+
+### Frontend
+- **Next.js**: I specialize in building fast, scalable, and SEO-friendly applications using the React-based Next.js framework. I leverage features like **server-side rendering (SSR)**, **static site generation (SSG)**, and **API routes** to create SEO-friendly, performant applications using the React-based framework.
+- **React.js**: Proficient in creating reusable UI components and managing state with **React hooks** and **Context API**.
+- **Tailwind CSS**: Skilled in building responsive and mobile-first designs quickly using utility-first CSS with Tailwind, and modern CSS.
+
+### eCommerce Platforms
+- **Shopify Plus**: I have extensive experience developing and customizing **Shopify Plus** stores. This includes building custom themes, working with **Liquid** templating, optimizing the user experience, and integrating third-party services via the **Shopify API**.
+- **Shopify App Development**: Knowledgeable in creating private and public Shopify apps to extend store functionalities and integrate with external services.
+
+### Backend Development
+- **Node.js & Express.js**: Experienced in building RESTful APIs and microservices using **Node.js** and **Express.js** to handle databases, authentication, and manage API calls efficiently.
+- **GraphQL**: Proficient in querying and managing data with **GraphQL**, especially in projects integrating with headless eCommerce platforms and APIs.
+
+### System Programming
+- **C++ Studies**: I am currently advancing my skills in **C++**, learning to write efficient and optimized code for system-level applications, gaining deeper insights into object-oriented programming (OOP), pointers, and low-level operations.
+
+</td><td valign="top" width="33%" align="center">
+
+## 🔗 Find Me Online
 <div id="badges" align="center" display="flex">
  <a href="https://www.linkedin.com/in/marjoree-fargas" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,54 +35,7 @@
  <a href="https://www.marjoree.com/" target="_blank">
    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge" alt="Portfolio Badge"/>
  </a>
- <a href="mailto:marjoree.e.f@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="email Badge"/>
+ <a href="https://github.com/mfargas" target="_blank">
+   <img src="https://img.shields.io/badge/GitHub?logo=Github&color=green" alt="GitHub Badge"/>
  </a>
-
-*****
-<!--   <p>⚡️</p> -->
 </div>
-<table align="center" ><tr><td valign="top" align="center">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-</div>
-
-</td><td valign="top" width="33%" align="center">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
-</div>
-
-</td><td valign="top" width="33%" align="center">
-
-
-
-### Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />
-</div>
-
-</td></tr></table>  
-
-<br/>  
-<!-- 
-<div align="center"><img width="45%" valign="center" src="https://github-readme-stats.vercel.app/api?username=mfargas&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" style="margin: 10px"  />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfargas&theme=tokyonight" style="margin: 10px" valign="top" width="30%" /></div>   -->
-    
-
