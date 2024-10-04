@@ -1,4 +1,4 @@
-# ✨Hi, I'm Marjoree  <img valign="bottom" src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" height="50px" style="margin: 0; padding: 0;"/>
+# ✨ Hi, I'm Marjoree  <img valign="bottom" src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" height="50px" style="margin: 0; padding: 0;"/>
 
 ## 🚀 About Me
 I'm a passionate software engineer with a deep love for modern web technologies, eCommerce platforms, and system-level programming. With experience in **JavaScript**, **Next.js**, **Shopify Plus**, and ongoing studies in **C++**, I am committed to building efficient solutions.
