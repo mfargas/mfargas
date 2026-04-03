@@ -1,11 +1,13 @@
-# <img valign="bottom" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN3Z3p1cGJrbDg0Yjd5ejJ2dGV2MXBtZ3Nwc3h6d2VnMWduODFhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3pV1IMQQMHYTw7gR8y/giphy.gif" height="40px" style="margin: 0; padding: 0;"/> MARJOREE FARGAS
+# <img valign="bottom" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTl2OHI4NjE3bGUzZmJoNmdkcGNwNnd1MjE2aTNidzhwNG1jb2NlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KE5Wi6aSESsjVpO6vg/giphy.gif" height="40px" style="margin: 0; padding: 0;"/> MARJOREE FARGAS
 
-## <img valign="bottom" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVianF3aWdzYmJvcTN6NjY5MXRrNG5qdmY1bjFjNndzNmU0Zm83MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cNG3CpUDKbruuLVBQz/giphy.gif" height="25px" style="padding: 0; margin: 50px 100px;" /> ABOUT
-Across my journey developing web apps and iOS apps, I've grown to appreciate the art of creating optimal systems that scale. I mostly create in **React.js/React Native**, **Next.js**, **Python**, and **Shopify Liquid**. 
+## Frontend Engineer 
+### Interactive, creative, & scalable UI systems
 
-In an AI-dominated world, it's important to not only take a step back to understand how a system is set up for long-term growth, but also push authentic creativity when you feel it.
+**Stack:**  
+React · React Native (Expo) · Next.js · Python · Shopify
 
-I spend most of my time these days self-developing iOS apps, primarily Ollin. Ollin is an Expo app project intended for cross-platform support, currently on TestFlight – <em>COMING SOON</em>
+Building **Ollin**, a cross-platform gamified productivity app using **Rive animations** (TestFlight).  
+Download **[Ollin Arcade](https://apps.apple.com/ca/app/ollin-arcade/id6760328332#information)**, a solo-built iOS game now on the App Store.
 
 
 ## <img valign="bottom" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ0MTRqbjhiaXNhNmZ4aGl2Y21xZ25rcnVrbWpoMDFjbWJnaGQ1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DqK59MsVcup3SYL8vq/giphy.gif" height="25px" style="padding: 0; margin: 50px 100px;" />MORE
